@@ -1,0 +1,13 @@
+.Client/GDNetClient/.vs/
+.Client/GDNetClient/.Library/
+.Client/GDNetClient/.Log/
+.Client/GDNetClient/.obj/
+.Client/GDNetClient1/.vs/
+.Client/GDNetClient1/.Library/
+.Client/GDNetClient1/.Log/
+.Client/GDNetClient1/.obj/
+.Server/server1/.vs/
+.Server/server1/bin/Debug/
+.Server/server1/obj/
+.Server/server1/packages/
+
